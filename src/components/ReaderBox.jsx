@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const ReaderBox = () => {
   return (
     <div>
-        ap
+      
     </div>
   )
 }
 
-export default App
+export default ReaderBox

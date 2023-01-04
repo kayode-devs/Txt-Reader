@@ -1,0 +1,13 @@
+.flexCenter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexSB {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}/*# sourceMappingURL=Alignment.css.map */
