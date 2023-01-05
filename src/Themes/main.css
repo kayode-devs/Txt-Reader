@@ -17,4 +17,36 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}/*# sourceMappingURL=Alignment.css.map */
+}
+
+.p5 {
+  padding: 0.5em;
+}
+
+.p1 {
+  padding: 1em;
+}
+
+.p1-1 {
+  padding: 1.1em;
+}
+
+.p1-2 {
+  padding: 1.2em;
+}
+
+.p2 {
+  padding: 2em;
+}
+
+.p3 {
+  padding: 3em;
+}
+
+.p4 {
+  padding: 4em;
+}
+
+.i {
+  color: red;
+}/*# sourceMappingURL=main.css.map */

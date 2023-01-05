@@ -1,3 +1,28 @@
-@mixin Padding (){
-    
+@mixin Padding ($value){
+    padding: $value;
+}
+
+.p5{
+    @include Padding(.5em)
+}
+.p1{
+    @include Padding(1em)
+}
+.p1-1{
+    @include Padding(1.1em)
+}
+.p1-2{
+    @include Padding(1.2em)
+}
+
+.p2{
+    @include Padding(2em)
+}
+
+.p3{
+    @include Padding(3em)
+}
+
+.p4{
+    @include Padding(4em)
 }

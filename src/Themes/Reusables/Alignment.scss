@@ -12,3 +12,13 @@
 .flexSB{
     @include Flex(row, center, space-between);
 }
+
+
+.flexCC{
+    @include Flex(column, center, center);
+}
+
+
+@mixin Grid () {
+    display: grid;
+}

@@ -1,0 +1,11 @@
+@mixin blue ($intensity) {
+    color: rgb(4, 4, $intensity);
+}
+
+@mixin black ($intensity) {
+    color: rgb($intensity, $intensity, $intensity);
+}
+
+@mixin main ($intensity) {
+    color: rgb(4, 32, $intensity);
+}
