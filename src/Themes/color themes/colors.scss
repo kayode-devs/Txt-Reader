@@ -9,3 +9,16 @@
 @mixin main ($intensity) {
     color: rgb(4, 32, $intensity);
 }
+
+.b-100{
+    @include blue(100);
+}
+.b-90{
+    @include blue(90)
+}
+.b-80{
+    @include blue(80)
+}
+.b-70{
+    @include blue(70)
+}

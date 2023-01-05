@@ -6,7 +6,7 @@ const Header = () => {
   const topToogleButtons = []
 
   return (
-    <div className='flexSB header'>
+    <div className='flexSB b-100'>
       <div>
         <h3>TextRead</h3>
       </div>
